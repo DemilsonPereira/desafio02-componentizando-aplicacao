@@ -2,8 +2,8 @@
 
 Este projeto foi desenvolvido no desafio #02 do curso de Reactjs da Rocketseat. O projeto consiste em um guia de filmes categorizados por uma lista de generos. Como adicional, eu acrescentei um componente que exibe todas as informações do filme ao serem clicados.
 
-![Componente principal](src/assets/example1.png)
-![Componente extra](src/assets/example2.png)
+![Componente principal](src/assets/image01.png)
+![Componente extra](src/assets/image02.png)
 
 # Installation
 
